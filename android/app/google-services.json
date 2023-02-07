@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112739069929",
+    "project_id": "cookingrecord-726f2",
+    "storage_bucket": "cookingrecord-726f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112739069929:android:aa0b889423158de779e578",
+        "android_client_info": {
+          "package_name": "com.example.cooking_record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112739069929-o83qr4v8b0hbo200h9kv7phbrrj6pg1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz9qtxRSJ2TKGsFO7wiPhIUsXXvDO7O1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112739069929-o83qr4v8b0hbo200h9kv7phbrrj6pg1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
